@@ -1,0 +1,57 @@
+#warp {
+	margin: 50px auto;
+	width: 230px;
+	height: 230px;
+}
+
+#clock {
+	position: relative;
+	margin: 7px 3px;
+	border: 15px solid #6df2f9;
+	border-radius: 115px;
+	width: 200px;
+	height: 200px;
+	background: #f7f5f5;
+}
+#number div {
+	position: absolute;
+	left: 10px;
+	top: 90px;
+	width: 190px;
+	height: 20px;
+}
+#number span {
+	display: block;
+	width: 20px;
+	height: 20px;
+}
+.pointer {
+	position: absolute;
+	bottom: 90px;
+	transform-origin: 50% 90%;
+
+	-webkit-transform-origin: 50% 90%;
+}
+#hour {
+	left: 98px;
+	width: 5px;
+	height: 60px;
+	background: black;
+}
+#minute {
+	left: 99px;
+	width: 3px;
+	height: 70px;
+	background: gray;
+}
+
+#second {
+	left: 100px;
+	width: 1px;
+	height: 80px;
+	background: red;
+}
+
+#currentMoment {
+	margin: 14px 7px;
+}
