@@ -1,6 +1,6 @@
 # clock-app
 
-<img src="https://gitee.com/codingOrange/image-hosting/raw/master/img/20210327155832.png" style="display: block; margin: 0 auto;">
+<img src="https://gitee.com/codingOrange/image-hosting/raw/master/img/20210327155832.png" style="max-width:100%;display: block;margin: auto;">
 
 ## 介绍
 
